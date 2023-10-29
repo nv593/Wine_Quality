@@ -26,7 +26,7 @@ To further improve the model, we perform hyperparameter tuning using Grid Search
 #### Feature Importance Analysis
 
 We analyze the top 5 features that have the most influence on wine quality, which can guide wine production and quality enhancement efforts.
-![features Chart](./visualizations/pie_chart_wine.png)
+![features Chart](./visualizations/(pie chart wine.png))
 
 ## Results
 
