@@ -1,5 +1,5 @@
 # Wine Quality Prediction Project
-![Banner](./visualizations/wine_readMe.png)
+![Banner](./visualizations/wine_readMe.jpg)
 ## Introduction
 
 
