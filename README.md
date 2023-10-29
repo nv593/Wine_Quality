@@ -74,9 +74,9 @@ Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Wine_Qu
 ### Repository Structure
 
 ```
-├── Visulizations
-├── Data
-├── Wine_Quality_slides.pdf
+├── visulizations
+├── data
 ├── README.md
-├── wine_analysis.ipynb
+├── Wine_Quality Analysis.pdf
+├── wine_quality.ipynb
 
