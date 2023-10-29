@@ -69,7 +69,7 @@ Based on the feature importance analysis, the following features significantly i
 This project provides the winery with a powerful predictive model for assessing and improving wine quality. By focusing on key chemical properties, we can make informed decisions during production, ensuring that the winery consistently delivers exceptional wines. The project's results and insights can be integrated into the winery's operations and contribute to its commitment to excellence.
 
 For a more detailed and technical explanation of the project, please refer to the full project report.
-Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Wine_Quality/blob/main/Wine%20Quality.ipynb) or [Presentation](link)
+Please view full analysis in [Jupyter Notebook](https://github.com/nv593/Wine_Quality/blob/main/wine_quality.ipynb) or [Presentation](https://github.com/nv593/Wine_Quality/blob/main/Wine%20Quality%20Analysis.pdf)
 
 ### Repository Structure
 
